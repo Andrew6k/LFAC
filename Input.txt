@@ -1,0 +1,20 @@
+Struct MyClass
+{
+    Int pt = 10
+}
+
+Function MyFct ( )
+{
+    Int at = 4
+}
+
+main ()
+{
+    Int x = 4
+    Bool Logic = true
+    String St = "Atremis"
+    Char chy = 'R'
+    Float Hi = 3.1
+
+    Eval( 3 - 2 * x )
+}

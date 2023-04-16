@@ -1,0 +1,9 @@
+Struct MyClass Construct
+Int pt = 10 Struct
+Function MyFct Construct 
+Int at = 4 InFunction
+Int x = 4 Local
+Bool Logic = true Local
+String St = "Atremis" Local
+Char chy = R Local
+Float Hi = 3.100 Local
